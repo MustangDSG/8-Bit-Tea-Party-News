@@ -1,4 +1,3 @@
-Игромания онлайн: EA раздаёт временный доступ к Battlefield V - https://www.igromania.ru/news/79124/EA_razdayot_vremennyy_dostup_k_Battlefield_V.html
 iXBT.com: С графическим драйвером AMD Radeon Software Adrenalin 2019 Edition можно будет разговаривать - https://www.ixbt.com/news/2018/11/30/amd-radeon-software-adrenalin-2019-edition.html
 Linus Tech Tips: What CPU to Buy - Late 2018 - https://youtu.be/1vi1dIuSsa4
 Игромания онлайн: Графический чип AMD Radeon RX 590 разогнали до 2 ГГц - https://www.igromania.ru/news/78905/Graficheskiy_chip_AMD_Radeon_RX_590_razognali_do_2_GGc.html
@@ -13,6 +12,8 @@ iXBT.com: В учетные записи Microsoft теперь возможен
 Tproger: Суперкомпьютер IBM Watson написал сценарий для рекламного ролика Lexus - https://tproger.ru/news/ibm-watson-ai-lexus/
 Хакер: Пользователи Apple могут стать жертвами омографических атак - https://xakep.ru/2018/11/21/apple-homograph-attack/
 Игромания онлайн: Hardkernel ODROID-H2 — одноплатный компьютер с процессором Intel - https://www.igromania.ru/news/78914/Hardkernel_ODROID-H2-odnoplatnyy_kompyuter_s_processorom_Intel.html
+Tproger: Разработчики заменили обсценную лексику в ядре Linux словом «hugs» - https://tproger.ru/news/hugs-instead-of-abusive-words/
+Игромания онлайн: Valve пытается вернуть крупных издателей в Steam - https://www.igromania.ru/news/79136/Valve_pytaetsya_vernut_krupnyh_izdateley_v_Steam.html
 dtf.ru: Valve объявила о прекращении производства Steam Link - https://dtf.ru/hard/31877-valve-obyavila-o-prekrashchenii-proizvodstva-steam-link
 iXBT.com: Электронная книга Xiaomi составит конкуренцию Amazon Kindle - https://www.ixbt.com/news/2018/11/21/xiaomi-amazon-kindle.html
 Ведомости: МТС получила 37 млрд рублей убытка - htps://www.vedomosti.ru/technology/articles/2018/11/20/786950-mts
