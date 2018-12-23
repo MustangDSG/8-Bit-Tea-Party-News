@@ -1,10 +1,13 @@
 Смотрите "RGB Motherboards a Security Risk ? | Xbox & Steam Crossplay in the Works ?" на YouTube - https://youtu.be/rwhvGA-Q5E8
 Сервер на АРМ... https://youtu.be/vCodnn0HOyI
+О языках программирования... https://youtu.be/p8-rZOCn5rQ
 iXBT.com: Nvidia решила поиграть с названиями. После видеокарты GeForce RTX 2060 нас ждёт GTX 1160, а RTX 2050 вообще не появится - https://www-ixbt-com.cdn.ampproject.org/c/s/www.ixbt.com/news/2018/12/21/nvidia-geforce-rtx-2060-gtx-1160-rtx-2050.amp.htmlFerra.ru: Microsoft изменила меню «Пуск» в новой версии Windows 10 - https://www.ferra.ru/news/apps/microsoft-izmenila-menyu-pusk-v-novoi-versii-windows-10-20-12-2018.htm
+Quake 2 обзавелась поддержкой Vulkan API - http://www.hardwareluxx.ru/index.php/news/software/spiele/46150-quake-2-vulkan-api.html
 Ай пад 1992-ого года от ЛГР - https://youtu.be/YkJxWtTPyb0
 Киберспорт: Dota 2, LоL, CS:GO: Nike и Sony выпустят кроссовки в стиле первой PlayStation - https://cyber.sports.ru/games/1068992472.html
 Радио Свобода (RFE/RL): Slack блокирует пользователей за посещение Крыма и Северной Кореи - https://www.svoboda.org/a/29669452.html
 Игромания онлайн: Экранизация Metro 2033 не вынесла переноса в Америку - https://www.igromania.ru/news/79337/Yekranizaciya_Metro_2033_ne_vynesla_perenosa_v_Ameriku.html
+kod.ru: В Google Chrome теперь можно рисовать - http://kod.ru/2790/
 Quake+Blood+Doom+Heretic – вышла финальная версия старомодного шутера Dusk - https://www.gametech.ru/news/61843/
 dtf.ru: Microsoft подарила ветерану ВМФ консоль Xbox One X — её доставил к дому прыгнувший с парашютом каскадёр - https://dtf.ru/games/32106-microsoft-podarila-veteranu-vmf-konsol-xbox-one-x-ee-dostavil-k-domu-prygnuvshiy-s-parashyutom-kaskader
 Канобу: Авторы Cyberpunk 2077 намекнули, что Найт-Сити будет не только на поверхности, но и под землей! - https://kanobu.ru/news/avtoryi-cyberpunk-2077-nameknuli-chto-najt-siti-budet-ne-tolko-na-poverhnosti-no-i-pod-zemlej-409022/
@@ -18,8 +21,8 @@ iXBT.com: Ноутбук Asus Primus, построенный на SoC Snapdragon
 gagadget.com: Microsoft и Google готовят порт Chrome для ARM-версии Windows 10 - https://gagadget.com/announce/41588-microsoft-i-google-gotovyat-port-chrome-dlya-arm-versii-windows-10/
 Джея выносят на 144Гц мониторе - https://youtu.be/6y--ZUHlyaU
 Жалоба 35 пользователей Telegram зарегистрирована в Верховном суде | РОСКОМСВОБОДА - https://roskomsvoboda.org/43291/
-О языках программирования... https://youtu.be/p8-rZOCn5rQ
 Трейсинг картинки - https://youtu.be/BJznsmQtwVI
+iXBT.com: Два приложения для Android, используемые американскими военными, содержат серьезные уязвимости - https://www.ixbt.com/news/2018/12/21/dva-prilozhenija-dlja-android-ispolzuemye-amerikanskimi-voennymi-soderzhat-sereznye-ujazvimosti.html
 dtf.ru: PlayStation Classic научили запускать игры с «флешки» - https://dtf.ru/hard/33846-playstation-classic-nauchili-zapuskat-igry-s-fleshki
 Игромания онлайн: В виртуальную реальность добавили запахи — Железные новости — Игромания - https://www.igromania.ru/news/78978/V_virtualnuyu_realnost_dobavili_zapahi.html
 РБК: Киберрегулятор: когда в России может появиться вице-премьер по роботам - https://www.rbc.ru/technology_and_media/23/11/2018/5bf7dd5f9a7947b5a2f61ced
@@ -62,3 +65,4 @@ iXBT.com: В Китае под видом AMD Radeon RX 580 продается R
 Ferra.ru: Карманные консоли возрождаются: Nintendo Switch вот-вот обойдёт PlayStation 4 по продажам - https://www.ferra.ru/news/games/karmannye-konsoli-vozrozhdayutsya-nintendo-switch-vot-vot-oboidyot-playstation-4-po-prodazham-04-12-2018.htm
 Радио Свобода (RFE/RL): Все на продажу. Как Фейсбук хотел торговать данными пользователей - https://www.svoboda.org/a/29641508.html
 Nintendo прекратит поставки NES mini и SNES mini в США и не планирует выпускать следующие ретро-консоли — Железо на DTF - https://dtf.ru/hard/34288-nintendo-prekratit-postavki-nes-mini-i-snes-mini-v-ssha-i-ne-planiruet-vypuskat-sleduyushchie-retro-konsoli
+Ferra.ru: Сбербанк запустил приложение для приёма бесконтактных платежей при помощи смартфона - https://www.ferra.ru/news/mobile/sberbank-zapustil-prilozhenie-dlya-priyoma-beskontaktnykh-platezhei-pri-pomoshi-smartfona-20-12-2018.htm
