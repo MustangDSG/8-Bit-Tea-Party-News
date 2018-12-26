@@ -1,17 +1,24 @@
+Onliner.by: GeForce RTX 2060 ожидают в январе с шестью модификациями памяти - Технологии onliner.by - https://tech.onliner.by/2018/12/26/geforce-rtx-2060
 Игромания онлайн: HTC подтвердила, что её беспроводной VR-шлем не работает на CPU Ryzen - https://www.igromania.ru/news/78949/HTC_podtverdila_chto_eyo_besprovodnoy_VR-shlem_ne_rabotaet_na_CPU_Ryzen.html
 iXBT.com: Ноутбук Asus Primus, построенный на SoC Snapdragon 8cx и работающий под управлением Windows 10 Pro, засветился - https://www.ixbt.com/news/2018/12/07/asus-primus-soc-snapdragon-8cx-windows-10-pro.html
+Игромания онлайн: Bethesda теперь банит за моды в Fallout 76 и просит написать эссе об их вреде - https://www.igromania.ru/news/79623/Bethesda_teper_banit_za_mody_v_Fallout_76_i_prosit_napisat_yesse_ob_ih_vrede.html
 iXBT.com: AMD представила бюджетные гибридные процессоры Athlon 220GE и 240GE на архитектуре Zen - https://www.ixbt.com/news/2018/12/21/amd-athlon-220ge-240ge-zen.html
 Джея выносят на 144Гц мониторе - https://youtu.be/6y--ZUHlyaU
-Трейсинг картинки - https://youtu.be/BJznsmQtwVI
+BATTLEFIELD V and RTX ON... Performance TESTED - https://youtu.be/BJznsmQtwVI
+Игромания онлайн: Все RTX в одном тесте или нужен ли нам Ray-Tracing — Сравнительный тест трёх RTX — ЖЦ — Игромания - http://www.youtube.com/watch?v=dZMXSE2VaW0
 Игромания онлайн: В январе Intel выпустит новые процессоры девятого поколения - https://www.igromania.ru/news/79590/V_yanvare_Intel_vypustit_novye_processory_devyatogo_pokoleniya.html
 tjournal.ru: В Google Chrome обнаружили баг, загружающий процессор на 100% - https://tjournal.ru/tech/82805-v-google-chrome-obnaruzhili-bag-zagruzhayushchiy-processor-na-100
 iXBT.com: Два приложения для Android, используемые американскими военными, содержат серьезные уязвимости - https://www.ixbt.com/news/2018/12/21/dva-prilozhenija-dlja-android-ispolzuemye-amerikanskimi-voennymi-soderzhat-sereznye-ujazvimosti.html
 dtf.ru: PlayStation Classic научили запускать игры с «флешки» - https://dtf.ru/hard/33846-playstation-classic-nauchili-zapuskat-igry-s-fleshki
+Appleinsider.ru: Apple согласилась заменить гнутые iPad Pro, но не всем - https://appleinsider.ru/ipad/apple-soglasilas-zamenit-gnutye-ipad-pro-no-ne-vsem.html
 Игромания онлайн: В виртуальную реальность добавили запахи — Железные новости — Игромания - https://www.igromania.ru/news/78978/V_virtualnuyu_realnost_dobavili_zapahi.html
 РБК: Киберрегулятор: когда в России может появиться вице-премьер по роботам - https://www.rbc.ru/technology_and_media/23/11/2018/5bf7dd5f9a7947b5a2f61ced
 Игровой архивист Джейсон Скотт провёл восьмичасовой стрим, на котором зачитал исходный код Leisure Suit Larry — Игры на DTF - https://dtf.ru/games/34609-igrovoy-arhivist-dzheyson-skott-provel-vosmichasovoy-strim-na-kotorom-zachital-ishodnyy-kod-leisure-suit-larry
+Хакер: Chrome OS будет блокировать порты USB при включенном экране блокировки - https://xakep.ru/2018/12/25/chrome-os-usbguard/
 iXBT.com: Тест видеокарты GeForce RTX 2060: быстрее GTX 1070 Ti при предполагаемой цене в 350 долларов - https://www.ixbt.com/news/2018/12/21/geforce-rtx-2060-gtx-1070-ti-350.html
+Хакер: Сайты фальшивой техподдержки эксплуатируют новый баг в Chrome, загружающий CPU на 100% - https://xakep.ru/2018/12/24/tech-support-scam-bug/
 Хакер: Троян TrickBot научился воровать информацию об истории проблем Windows - https://xakep.ru/2018/11/20/trickbot-steal-rac-data/
+Хакер: Уязвимость в Twitter позволяет публиковать записи от лица других пользователей - https://xakep.ru/2018/12/26/twitter-phone-number-bug/
 Хакер: WWW: Code Photo — сервис для превращения исходников в шедевральное фото - https://xakep.ru/2018/11/23/www-code-photo/
 Хакер: Баг на сайте Почтовой службы США раскрывал данные о 60 000 000 человек - https://xakep.ru/2018/11/23/usps-leak/
 Androidinsider.ru: В тренды Google Play попало вредоносное ПО для Android - https://androidinsider.ru/soft/v-trendyi-google-play-popalo-vredonosnoe-po-dlya-android.html
