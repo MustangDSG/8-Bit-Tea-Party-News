@@ -1,22 +1,3 @@
-Джея выносят на 144Гц мониторе - https://youtu.be/6y--ZUHlyaU
-BATTLEFIELD V and RTX ON... Performance TESTED - https://youtu.be/BJznsmQtwVI
-Игромания онлайн: Все RTX в одном тесте или нужен ли нам Ray-Tracing — Сравнительный тест трёх RTX — ЖЦ — Игромания - http://www.youtube.com/watch?v=dZMXSE2VaW0
-Игромания онлайн: В январе Intel выпустит новые процессоры девятого поколения - https://www.igromania.ru/news/79590/V_yanvare_Intel_vypustit_novye_processory_devyatogo_pokoleniya.html
-tjournal.ru: В Google Chrome обнаружили баг, загружающий процессор на 100% - https://tjournal.ru/tech/82805-v-google-chrome-obnaruzhili-bag-zagruzhayushchiy-processor-na-100
-iXBT.com: Два приложения для Android, используемые американскими военными, содержат серьезные уязвимости - https://www.ixbt.com/news/2018/12/21/dva-prilozhenija-dlja-android-ispolzuemye-amerikanskimi-voennymi-soderzhat-sereznye-ujazvimosti.html
-dtf.ru: PlayStation Classic научили запускать игры с «флешки» - https://dtf.ru/hard/33846-playstation-classic-nauchili-zapuskat-igry-s-fleshki
-Appleinsider.ru: Apple согласилась заменить гнутые iPad Pro, но не всем - https://appleinsider.ru/ipad/apple-soglasilas-zamenit-gnutye-ipad-pro-no-ne-vsem.html
-Игромания онлайн: В виртуальную реальность добавили запахи — Железные новости — Игромания - https://www.igromania.ru/news/78978/V_virtualnuyu_realnost_dobavili_zapahi.html
-РБК: Киберрегулятор: когда в России может появиться вице-премьер по роботам - https://www.rbc.ru/technology_and_media/23/11/2018/5bf7dd5f9a7947b5a2f61ced
-Игровой архивист Джейсон Скотт провёл восьмичасовой стрим, на котором зачитал исходный код Leisure Suit Larry — Игры на DTF - https://dtf.ru/games/34609-igrovoy-arhivist-dzheyson-skott-provel-vosmichasovoy-strim-na-kotorom-zachital-ishodnyy-kod-leisure-suit-larry
-Хакер: Chrome OS будет блокировать порты USB при включенном экране блокировки - https://xakep.ru/2018/12/25/chrome-os-usbguard/
-iXBT.com: Тест видеокарты GeForce RTX 2060: быстрее GTX 1070 Ti при предполагаемой цене в 350 долларов - https://www.ixbt.com/news/2018/12/21/geforce-rtx-2060-gtx-1070-ti-350.html
-Хакер: Сайты фальшивой техподдержки эксплуатируют новый баг в Chrome, загружающий CPU на 100% - https://xakep.ru/2018/12/24/tech-support-scam-bug/
-Хакер: Троян TrickBot научился воровать информацию об истории проблем Windows - https://xakep.ru/2018/11/20/trickbot-steal-rac-data/
-Хакер: Уязвимость в Twitter позволяет публиковать записи от лица других пользователей - https://xakep.ru/2018/12/26/twitter-phone-number-bug/
-Хакер: WWW: Code Photo — сервис для превращения исходников в шедевральное фото - https://xakep.ru/2018/11/23/www-code-photo/
-Хакер: Баг на сайте Почтовой службы США раскрывал данные о 60 000 000 человек - https://xakep.ru/2018/11/23/usps-leak/
-Androidinsider.ru: В тренды Google Play попало вредоносное ПО для Android - https://androidinsider.ru/soft/v-trendyi-google-play-popalo-vredonosnoe-po-dlya-android.html
 iXBT.com: Битва титанов: пару 48-ядерных процессоров Intel сравнили с двумя 64-ядерными CPU AMD и они показали очень близкие результаты - https://www.ixbt.com/news/2018/11/24/48-intel-64-cpu-amd.html
 Ferra.ru: Создатели Doom и Bioshock выпустят новый кровавый шутер - Ferra.ru - https://www.ferra.ru/ru/games/news/2018/11/26/prodeus/
 medialeaks: Школьник нарисовал на доске лого Super Smash Bros. и загремел в участок. Кто же знал, что игры и этим опасны? - https://medialeaks.ru/1212xsh-super-smash-bros/
