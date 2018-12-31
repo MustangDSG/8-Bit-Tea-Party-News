@@ -1,14 +1,3 @@
-Hi-News.ru: Разработчики Linux поддержат Windows - https://hi-news.ru/software/razrabotchiki-linux-podderzhat-windows.html
-Ferra.ru: Создатели Doom и Bioshock выпустят новый кровавый шутер - Ferra.ru - https://www.ferra.ru/ru/games/news/2018/11/26/prodeus/
-medialeaks: Школьник нарисовал на доске лого Super Smash Bros. и загремел в участок. Кто же знал, что игры и этим опасны? - https://medialeaks.ru/1212xsh-super-smash-bros/
-SEGODNYA: Microsoft отказалась от паролей на вход в Windows 10 - https://www.segodnya.ua/lifestyle/science/microsoft-otkazalas-ot-paroley-na-vhod-v-windows-10-1200879.html
-Androidinsider.ru: Google научилась следить за пользователями необычным способом - https://androidinsider.ru/sudy-i-skandaly/google-nauchilas-sledit-za-polzovatelyami-neobyichnyim-sposobom.html
-Игромания онлайн: Подтверждено негативное влияние Denuvo на производительность игр на PC - https://www.igromania.ru/news/79664/Podtverzhdeno_negativnoe_vliyanie_Denuvo_na_proizvoditelnost_igr_na_PC.html
-Россия намерена увеличить размеры штрафов для IT-компаний вроде Facebook и Google, а также новостных агрегаторов и мессенджеров за неисполнение требований госорганов - https://roskomsvoboda.org/43322/
-iXBT.com: В телевизорах Samsung Smart TV 2019 модельного года появится функция удаленного доступа для управления - https://www.ixbt.com/news/2018/12/27/samsung-smart-tv-2019.html
-Meduza: Facebook и Instagram начали блокировать посты по решению российских судов - https://meduza.io/news/2018/11/26/facebook-i-instagram-nachali-blokirovat-posty-po-resheniyu-rossiyskih-sudov
-Роскомнадзор возбудил административное дело против Google. За отказ подключаться к ФГИС, с помощью которой поисковики должны будут получать информацию о сайтах с противоправной информацией, американского IT-гиганта может ждать штраф до 700 т.р. - https://roskomsvoboda.org/43334/
-Игромания онлайн: Стали известны спецификации мобильных 3D-карт NVIDIA - https://www.igromania.ru/news/79657/Stali_izvestny_specifikacii_mobilnyh_3D-kart_NVIDIA.html
 iXBT.com: Microsoft Pro IntelliMouse — новая мышка компании в классическом корпусе, но с современным датчиком - https://www.ixbt.com/news/2018/12/12/microsoft-pro-intellimouse.html
 Прокуратура впервые заплатит за неправомерную блокировку сайта - https://habr.com/company/digitalrightscenter/blog/431044/
 Ferra.ru: Новые iPhone будут индийской сборки - https://www.ferra.ru/news/mobile/novye-iphone-budut-indiiskoi-sborki-27-12-2018.htm
