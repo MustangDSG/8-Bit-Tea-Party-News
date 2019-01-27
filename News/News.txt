@@ -1,3 +1,4 @@
+Gametech: RTX2080Ti не справляется с демо Anthem в 4К/60 к/с на высоких настройках - https://www.gametech.ru/news/62523/
 iXBT.com: Отсутствие в macOS поддержки видеокарт Nvidia обусловлено конфликтом между менеджерами Apple и Nvidia - https://www.ixbt.com/news/2019/01/20/macos-nvidia-apple-nvidia.html
 Новости от АМД уже были, но еще пара мыслей. https://youtu.be/5e9sFaBKSi4
 kod.ru: Microsoft прекратит работу Windows 10 Mobile в конце 2019 года - http://kod.ru/2839/
