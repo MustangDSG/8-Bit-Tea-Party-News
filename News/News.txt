@@ -1,16 +1,3 @@
-Gametech: RTX2080Ti не справляется с демо Anthem в 4К/60 к/с на высоких настройках - https://www.gametech.ru/news/62523/
-iXBT.com: Отсутствие в macOS поддержки видеокарт Nvidia обусловлено конфликтом между менеджерами Apple и Nvidia - https://www.ixbt.com/news/2019/01/20/macos-nvidia-apple-nvidia.html
-Новости от АМД уже были, но еще пара мыслей. https://youtu.be/5e9sFaBKSi4
-kod.ru: Microsoft прекратит работу Windows 10 Mobile в конце 2019 года - http://kod.ru/2839/
-Алиенвар, ноутбук под "улучшения", хотя фактически уже мы это видели. Скорее компактный настольный вариант. https://youtu.be/J-RXqNafscs
-Androidinsider.ru: Приложение Google Files для Android объявило войну мемам - https://androidinsider.ru/soft/prilozhenie-google-files-dlya-android-obyavilo-voynu-memam.html
-Смартфон с кнопками чем-то напомнил первые палмы. https://youtu.be/EP6rqLU2J9w
-Хакер: Вредоносное расширение Flash Reader (поддельный Flash Player) для Google Chrome воровало информацию о банковских картах пользователей - https://xakep.ru/2019/01/17/flash-reader/
-iXBT.com: Tesla повысила цены на заправках Supercharger - https://www.ixbt.com/news/2019/01/20/tesla-povysila-ceny-na-zapravkah-supercharger-.html
-Лайфхакер: 7 нововведений Windows 10, которые мы увидим этой весной: 1. Новая светлая тема, 2. Изменения в меню «Пуск», 3. Внедрение Fluent Design, 4. Улучшения в панели быстрых настроек, 5. Windows Sandbox, 6. Исправления в системе обновлений, 7. Новое офисное приложение - https://lifehacker.ru/obnovlenie-versii-windows-10/
-iXBT.com: Lenovo Z5 Pro Snapdragon 855 Edition с 12 ГБ ОЗУ набрал в GeekBench меньше баллов, чем версия с 6 ГБ - https://www.ixbt.com/news/2019/01/20/lenovo-z5-pro-snapdragon-855-edition-12-geekbench-6.html
-Ведомости: YouTube удалил комедию Красовского о блокадном Ленинграде - https://www.vedomosti.ru/technology/news/2019/01/20/791877-youtube-udalil-komediyu-krasovskogo
-Приближение DNS Flag Day всколыхнуло Рунет | РОСКОМСВОБОДА - https://roskomsvoboda.org/44407/
 WhatsApp запретил рассылать одно и то же сообщение более пяти раз. Для борьбы с фейковыми новостями — Meduza - https://meduza.io/news/2019/01/21/whatsapp-zapretil-rassylat-odno-i-to-zhe-soobschenie-bolee-pyati-raz-dlya-borby-s-feykovymi-novostyami
 3DNews: Гендиректор MSI — о дефиците процессоров Intel, его последствиях и чипах AMD - https://3dnews.ru/981381
 RT: Роскомнадзор открыл дела против Twitter и Facebook — РТ на русском - https://russian.rt.com/russia/news/594799-roskomnadzor-dela-twitter-facebook
