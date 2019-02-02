@@ -1,9 +1,3 @@
-Хорошая статья на Хабре от Qrator Labs о том, что же таки произойдёт 1 февраля с интернетом. И произойдёт ли:  - https://habr.com/ru/company/qrator/blog/437334 Напомним, что ранее мы писали про наступающий DNS Flag Day с экспертными мнениями: - https://roskomsvoboda.org/44407
-Райзен 3-го поколения, АйсЛейк от Инела, видеочипы от НВ и падение цен на память. https://youtu.be/oLlKDJfRRaY
-В World of Tanks появился новый режим боев на роботах. Новый режим игры позволит участвовать в боях шагающих боевых машин в схватках 4 на 4. Режим временный и продлится лишь до 4 февраля, а доступен он лишь на игровых приставках PlayStation 4 и Xbox One в рамках 5-летнего юбилея появления World of Tanks на консолях - https://www.segodnya.ua/lifestyle/science/v-world-of-tanks-poyavilsya-novyy-rezhim-boev-na-robotah-1213480.html
-Новые от АМД и МКорабль от АСУС-а https://youtu.be/T5JY6gME1QY
-Игромания онлайн: После запуска VIP-демо Anthem упали сервера практически всех игр Electronic Arts - https://www.igromania.ru/news/80233/Posle_zapuska_VIP-demo_Anthem_upali_servera_prakticheski_vseh_igr_Electronic_Arts.html
-Gametech: RTX2080Ti не справляется с демо Anthem в 4К/60 к/с на высоких настройках - https://www.gametech.ru/news/62523/
 Роскомнадзор не смог заставить норвежское СМИ удалить материал о гее-сааме. Надзорное ведомство посчитало, что статья о представителе коренного малочисленного народа Севера, который благодаря работе в благотворительной организации отказался от суицидальных намерений, нарушает законодательство РФ - https://roskomsvoboda.org/44677
 Gametech: «Поднять щиты за Габена!»: пользовательский рейтинг игр серии Metro в Steam идёт ко дну - https://www.gametech.ru/news/62586/
 WhatsApp запретил рассылать одно и то же сообщение более пяти раз. Для борьбы с фейковыми новостями — Meduza - https://meduza.io/news/2019/01/21/whatsapp-zapretil-rassylat-odno-i-to-zhe-soobschenie-bolee-pyati-raz-dlya-borby-s-feykovymi-novostyami
