@@ -1,13 +1,8 @@
 Канобу: PlayStation 4 за 9 евро: парень покупал консоли со «скидкой», взвешивая ее на весах вместо фруктов - https://kanobu.ru/news/playstation-4za9evro-paren-pokupal-konsoli-soskidkoj-vzveshivaya-eenavesah-vmesto-fruktov-410570/
-Игры с матрицами на одном экране HiSense. https://youtu.be/STdZ_kiHYEY
 Запущен сервис Apple Censorship для отслеживания цензуры в Китае. Сервис демонстрирует, в какой степени американская компания сотрудничает с китайскими властями, блокируя новости, информацию о правах человека и даже приложения для анонимности и обхода блокировок - https://roskomsvoboda.org/44775
-Новые старые технологии от Сигейта и планы. https://youtu.be/5QJl7XEagok
 Наказания за недостоверную информацию и оскорбление властей рекомендованы к принятию | РОСКОМСВОБОДА - https://roskomsvoboda.org/44440/
-Уже вроде обсуждали, но немного дополнений про сборки ПК от производителей. https://youtu.be/Z83am27V2uk
 Власти Венесуэлы устроили региональные интернет-шатдауны. Сбои с доступом в Сеть начались два дня назад, затронули большую часть юго-запада и востока Венесуэлы, и после более чем суточного отключения доступ для большинства пользователей восстанавливается только сейчас. Очередной пример того, как сама страна отключает интернет (а не кто-то ей). К сожалению, такое случается в мире всё чаще - https://roskomsvoboda.org/44614
-Обзор Радеон Вега 2 или Вега 7, тесты... https://youtu.be/alhEgNvzv50
 Игромания онлайн: Вслед за дизайном консоли авторы Project C.A.R.S. показали концепты геймпада - https://www.igromania.ru/news/80069/Vsled_za_dizaynom_konsoli_avtory_Project_C_A_R_S_pokazali_koncepty_geympada.html
-Дополнительно еще про АМД от Стива. Подробно и по замерам у него уже идет опережение 2080 моделей... https://youtu.be/n9rhtSwAVfI
 iXBT.com: Появились первые результаты тестирования видеокарты GeForce GTX 1660 Ti - https://www.ixbt.com/news/2019/01/21/geforce-gtx-1660-ti.html
 Androidinsider.ru: Xiaomi позволила китайским властям шпионить за своими пользователями - https://androidinsider.ru/smartfony/xiaomi-pozvolila-kitajskim-vlastyam-shpionit-za-svoimi-polzovatelyami.html
 Androidinsider.ru: Приехали: Android можно взломать картинкой из интернета - https://androidinsider.ru/os/priehali-android-mozhno-vzlomat-kartinkoj-iz-interneta.html
@@ -18,11 +13,16 @@ iXBT.com: Intel готовит Core i9-9900T — восьмиядерный CPU 
 iXBT.com: Смартфон Intel с гибким экраном складывается втрое и превращается в призму - https://www.ixbt.com/news/2019/01/28/smartfon-intel-s-gibkim-jekranom-skladyvaetsja-vtroe-i-prevrashaetsja-v-prizmu.html
 Хакер: Энергетическая компания из Южной Африки взломана, потому что ее сотрудник скачал The Sims 4 - https://xakep.ru/2019/02/07/eskom-hack/
 vc.ru: Visa попросила российские банки подготовиться к снятию наличных с карт через кассы в магазинах - https://vc.ru/finance/57914-visa-poprosila-rossiyskie-banki-podgotovitsya-k-snyatiyu-nalichnyh-s-kart-cherez-kassy-v-magazinah
+Игры с матрицами на одном экране HiSense. https://youtu.be/STdZ_kiHYEY
 Игромания онлайн: SK Hynix начала разработку памяти DDR6 - https://www.igromania.ru/news/80248/SK_Hynix_nachala_razrabotku_pamyati_DDR6.html
+Новые старые технологии от Сигейта и планы. https://youtu.be/5QJl7XEagok
 Игромания онлайн: СМИ: Первая видеокарта AMD на базе чипа Navi выйдет летом - https://www.igromania.ru/news/80014/SMI_Pervaya_videokarta_AMD_na_baze_chipa_Navi_vyydet_letom.html
+Уже вроде обсуждали, но немного дополнений про сборки ПК от производителей. https://youtu.be/Z83am27V2uk
 Канобу: В Metro: Exodus будет Denuvo. Часть геймеров объявила разработчикам бойкот - https://kanobu.ru/news/v-metro-exodus-budet-denuvo-i-poetomu-nekotoryie-gejmeryi-ne-hotyat-pokupat-igru-410372/
+Обзор Радеон Вега 2 или Вега 7, тесты... https://youtu.be/alhEgNvzv50
 Игромания онлайн: Спустя два года Capcom удалила Denuvo из Resident Evil 7 - https://www.igromania.ru/news/80261/Spustya_dva_goda_Capcom_udalila_Denuvo_iz_Resident_Evil_7.html
 iXBT.com: AMD Gonzalo — процессор, который может лечь в основу игровой консоли следующего поколения (Судя по его маркировке, он получит восемь процессорных ядер с частотой 1,6-3,2 ГГц и GPU архитектуры Navi, которое источник называет Navi 10 Lite) - https://www.ixbt.com/news/2019/01/19/amd-gonzalo--processor-kotoryj-mozhet-lech-v-osnovu-igrovoj-konsoli-sledujushego-pokolenija.html
+Дополнительно еще про АМД от Стива. Подробно и по замерам у него уже идет опережение 2080 моделей... https://youtu.be/n9rhtSwAVfI
 Игромания онлайн: NVIDIA подтвердила низкие продажи карт RTX - https://www.igromania.ru/news/80287/NVIDIA_podtverdila_nizkie_prodazhi_kart_RTX.html
 Androidinsider.ru: Почему не стоит устанавливать оптимизаторы батарей для Android - https://androidinsider.ru/soft/pochemu-ne-stoit-ustanavlivat-optimizatoryi-batarey-dlya-android.html
 Игромания онлайн: Intel готовит мини-PC NUC с дискретной графикой AMD Radeon RX 540 с архитектурой Polaris и 2 ГБ выделенной памяти GDDR5 - https://www.igromania.ru/news/80058/Intel_gotovit_mini-PC_NUC_s_diskretnoy_grafikoy.html
