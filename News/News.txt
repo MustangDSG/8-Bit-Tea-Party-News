@@ -1,22 +1,30 @@
+iXBT.com: Первые игровые ноутбуки с процессорами AMD Ryzen нового поколения оценены в 700 и 800 евро - https://www.ixbt.com/news/2019/02/14/amd-ryzen-700-800.html
+iXBT.com: Готовится нечто грандиозное. Microsoft уже начала тестировать крупное функциональное обновление Windows 2020 года - https://www.ixbt.com/news/2019/02/14/microsoft-windows-2020.html
+Хакер: Устройства QNAP под атакой, но патчей пока нет - https://xakep.ru/2019/02/15/qnap-hosts/
 Androidinsider.ru: Xiaomi позволила китайским властям шпионить за своими пользователями - https://androidinsider.ru/smartfony/xiaomi-pozvolila-kitajskim-vlastyam-shpionit-za-svoimi-polzovatelyami.html
-Androidinsider.ru: Приехали: Android можно взломать картинкой из интернета - https://androidinsider.ru/os/priehali-android-mozhno-vzlomat-kartinkoj-iz-interneta.html
+Хакер: Троян Astaroth использует антивирусы для кражи данных - https://xakep.ru/2019/02/15/astaroth/
+iXBT.com: Продажи игровых видеокарт Nvidia снизились почти вдвое - https://www.ixbt.com/news/2019/02/15/prodazhi-igrovyh-videokart-nvidia-snizilis-pochti-vdvoe.html
+Hi-News.ru: В самокатах Xiaomi найдена уязвимость, которая позволяет любому управлять ими удаленно - https://hi-news.ru/gadgets/v-samokatax-xiaomi-najdena-uyazvimost-kotoraya-pozvolyaet-lyubomu-upravlyat-imi-udalenno.html
+Игромания онлайн: Слухи: Intel готовит процессор Core i9-9900KFC с ароматом жареной курицы - https://www.igromania.ru/news/80850/Sluhi_Intel_gotovit_processor_Core_i9-9900KFC_s_aromatom_zharenoy_kuricy.html
+Игромания онлайн: В AMD раскритиковали технологию сглаживания DLSS - https://www.igromania.ru/news/80839/V_AMD_raskritikovali_tehnologiyu_sglazhivaniya_DLSS.html
+Игромания онлайн: Технология NVIDIA DLSS «замыливает» картинку в Metro: Exodus - https://www.igromania.ru/news/80836/Tehnologiya_NVIDIA_DLSS_zamylivaet_kartinku_v_Metro_Exodus.html
+Игромания онлайн: На коробке Metro: Exodus для РС нашли упоминание Steam под стикером Epic Games Store - https://www.igromania.ru/news/80842/Na_korobke_Metro_Exodus_dlya_RS_nashli_upominanie_Steam_pod_stikerom_Epic_Games_Store.html
+Игромания онлайн: Digital Foundry: анализ Metro Exodus на консолях — лучшая производительность у Xbox One - https://www.igromania.ru/news/80849/Digital_Foundry_analiz_Metro_Exodus_na_konsolyah-luchshaya_proizvoditelnost_u_Xbox_One.html
 iXBT.com: Intel готовит Core i9-9900T — восьмиядерный CPU с TDP 35 Вт и базовой частотой всего 1,7 ГГц - https://www.ixbt.com/news/2019/01/26/intel-core-i9-9900t-cpu-tdp-35-1-7.html
+Игромания онлайн: EA заблокировала Apex Legends и Anthem в Иране - https://www.igromania.ru/news/80665/EA_zablokirovala_Apex_Legends_i_Anthem_v_Irane.html
+iXBT.com: AMD превращает Radeon VII в профессиональный адаптер, добавив поддержку этой карты в драйвер Radeon Pro - https://www.ixbt.com/news/2019/02/11/amd-radeon-vii-radeon-pro-software-enterprise-edition.html
 Хакер: Вымогатели по-прежнему захватывают установки MongoDB, хотя это не работает - https://xakep.ru/2019/02/08/mongodb-ransom/
 Игромания онлайн: Специальное издание Mortal Kombat 11 с эксклюзивным костюмом будет только на PS4 - https://www.igromania.ru/news/80180/Specialnoe_izdanie_Mortal_Kombat_11_s_yeksklyuzivnym_kostyumom_budet_tolko_na_PS4.html
 Хакер: Google Adiantium сделает надежное шифрование доступным даже для «слабых» мобильных устройств - https://xakep.ru/2019/02/08/adiantium/
 iXBT.com: Смартфон Intel с гибким экраном складывается втрое и превращается в призму - https://www.ixbt.com/news/2019/01/28/smartfon-intel-s-gibkim-jekranom-skladyvaetsja-vtroe-i-prevrashaetsja-v-prizmu.html
+dtf.ru: Есть ли на консолях читеры? - https://dtf.ru/ask/39442-est-li-na-konsolyah-chitery
 Хакер: Энергетическая компания из Южной Африки взломана, потому что ее сотрудник скачал The Sims 4 - https://xakep.ru/2019/02/07/eskom-hack/
 vc.ru: Visa попросила российские банки подготовиться к снятию наличных с карт через кассы в магазинах - https://vc.ru/finance/57914-visa-poprosila-rossiyskie-banki-podgotovitsya-k-snyatiyu-nalichnyh-s-kart-cherez-kassy-v-magazinah
-Игры с матрицами на одном экране HiSense. https://youtu.be/STdZ_kiHYEY
-Игромания онлайн: SK Hynix начала разработку памяти DDR6 - https://www.igromania.ru/news/80248/SK_Hynix_nachala_razrabotku_pamyati_DDR6.html
-Новые старые технологии от Сигейта и планы. https://youtu.be/5QJl7XEagok
-Игромания онлайн: СМИ: Первая видеокарта AMD на базе чипа Navi выйдет летом - https://www.igromania.ru/news/80014/SMI_Pervaya_videokarta_AMD_na_baze_chipa_Navi_vyydet_letom.html
-Уже вроде обсуждали, но немного дополнений про сборки ПК от производителей. https://youtu.be/Z83am27V2uk
-Канобу: В Metro: Exodus будет Denuvo. Часть геймеров объявила разработчикам бойкот - https://kanobu.ru/news/v-metro-exodus-budet-denuvo-i-poetomu-nekotoryie-gejmeryi-ne-hotyat-pokupat-igru-410372/
-Обзор Радеон Вега 2 или Вега 7, тесты... https://youtu.be/alhEgNvzv50
+Overclockers.ua: За Intel Core i9-9990XE победитель аукциона выложил $2300 - https://www.overclockers.ua/news/hardware/2019-02-13/123845/
+Игромания: Обзор Metro: Exodus. Игра на контрастах — Рецензии — Статьи - https://www.igromania.ru/article/30665/Obzor_Metro_Exodus_Igra_na_kontrastah.html
+Игромания: Обзор Far Cry New Dawn. Какой-то неправильный постапокалипсис - https://www.igromania.ru/article/30669/Obzor_Far_Cry_New_Dawn_Kakoy-to_nepravilnyy_postapokalipsis.html
 Игромания онлайн: Спустя два года Capcom удалила Denuvo из Resident Evil 7 - https://www.igromania.ru/news/80261/Spustya_dva_goda_Capcom_udalila_Denuvo_iz_Resident_Evil_7.html
 iXBT.com: AMD Gonzalo — процессор, который может лечь в основу игровой консоли следующего поколения (Судя по его маркировке, он получит восемь процессорных ядер с частотой 1,6-3,2 ГГц и GPU архитектуры Navi, которое источник называет Navi 10 Lite) - https://www.ixbt.com/news/2019/01/19/amd-gonzalo--processor-kotoryj-mozhet-lech-v-osnovu-igrovoj-konsoli-sledujushego-pokolenija.html
-Дополнительно еще про АМД от Стива. Подробно и по замерам у него уже идет опережение 2080 моделей... https://youtu.be/n9rhtSwAVfI
 Игромания онлайн: NVIDIA подтвердила низкие продажи карт RTX - https://www.igromania.ru/news/80287/NVIDIA_podtverdila_nizkie_prodazhi_kart_RTX.html
 Androidinsider.ru: Почему не стоит устанавливать оптимизаторы батарей для Android - https://androidinsider.ru/soft/pochemu-ne-stoit-ustanavlivat-optimizatoryi-batarey-dlya-android.html
 Игромания онлайн: Intel готовит мини-PC NUC с дискретной графикой AMD Radeon RX 540 с архитектурой Polaris и 2 ГБ выделенной памяти GDDR5 - https://www.igromania.ru/news/80058/Intel_gotovit_mini-PC_NUC_s_diskretnoy_grafikoy.html
@@ -86,3 +94,21 @@ iXBT.com: Intel готовится забрать у Samsung звание лид
 QUIC, TLS 1.3, DNS-over-HTTPS, далее везде / Хабр - https://habr.com/ru/company/qrator/blog/416633/
 iXBT.com: Официально: видеокарты AMD Navi действительно выйдут в этом году - https://www.ixbt.com/news/2019/01/30/oficialno-videokarty-amd-navi-dejstvitelno-vyjdut-v-jetom-godu.html
 iXBT.com: Intel пытается купить компанию Mellanox за 6 миллиардов долларов - https://www.ixbt.com/news/2019/01/30/intel-mellanox-6.html
+Самсунг мониторы, АМД в хроме и чипы для авто от Самсунга... https://youtu.be/ZsF7UGT9C0c
+Игромания: Seagate запустит серийное производство HDD с двумя актуаторами в этом году - https://www.igromania.ru/news/80653/Seagate_zapustit_seriynoe_proizvodstvo_HDD_s_dvumya_aktuatorami_v_yetom_godu.html
+Краткие дополнения по ТРендам, но многое уже обсудили... https://youtu.be/1795d614zcY
+Androidinsider.ru: Приехали: Android можно взломать картинкой из интернета - https://androidinsider.ru/os/priehali-android-mozhno-vzlomat-kartinkoj-iz-interneta.html
+Странные роботы, колесо чтобы сделать из своего кота спортсмена и ремень для законодателей... :) https://youtu.be/VgNX3gsuJ7g
+Игромания онлайн: За первую неделю общее число игроков Apex Legends превысило 25 млн человек - https://www.igromania.ru/news/80704/Za_pervuyu_nedelyu_obschee_chislo_igrokov_Apex_Legends_prevysilo_25_mln_chelovek.html
+Интел АйсЛейк еще немного дополнений, летающие и шагающие транспорты... https://youtu.be/6FHzCS6iwvc
+Ведомости: Маск сообщил о превосходстве нового двигателя SpaceX над РД-180 - https://www.vedomosti.ru/technology/news/2019/02/11/793762-mask
+Игры с матрицами на одном экране HiSense. https://youtu.be/STdZ_kiHYEY
+Игромания онлайн: SK Hynix начала разработку памяти DDR6 - https://www.igromania.ru/news/80248/SK_Hynix_nachala_razrabotku_pamyati_DDR6.html
+Игромания онлайн: Media Markt «доплачивает» тем, кто возьмёт бесплатный диск Fallout 76 - https://www.igromania.ru/news/80699/Media_Markt_doplachivaet_tem_kto_vozmyot_besplatnyy_disk_Fallout_76.html
+Новые старые технологии от Сигейта и планы. https://youtu.be/5QJl7XEagok
+Игромания онлайн: СМИ: Первая видеокарта AMD на базе чипа Navi выйдет летом - https://www.igromania.ru/news/80014/SMI_Pervaya_videokarta_AMD_na_baze_chipa_Navi_vyydet_letom.html
+Уже вроде обсуждали, но немного дополнений про сборки ПК от производителей. https://youtu.be/Z83am27V2uk
+Канобу: В Metro: Exodus будет Denuvo. Часть геймеров объявила разработчикам бойкот - https://kanobu.ru/news/v-metro-exodus-budet-denuvo-i-poetomu-nekotoryie-gejmeryi-ne-hotyat-pokupat-igru-410372/
+Обзор Радеон Вега 2 или Вега 7, тесты... https://youtu.be/alhEgNvzv50
+Хакер: Microsoft призывает отказаться от использования Internet Explorer - https://xakep.ru/2019/02/11/no-more-ie-2/
+Дополнительно еще про АМД от Стива. Подробно и по замерам у него уже идет опережение 2080 моделей... https://youtu.be/n9rhtSwAVfI
