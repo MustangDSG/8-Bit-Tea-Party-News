@@ -1,21 +1,3 @@
-Канобу: Защита Denuvo в Far Cry: New Dawn продержалась неделю. Игру уже взломали - https://kanobu.ru/news/zaschita-denuvo-vfar-cry-new-dawn-proderzhalas-nedelyu-igru-uzhe-vzlomali-411322/
-Канобу: Metro: Exodus взломали и слили на торренты. Вот вам и «Epic Games Store против Steam» - https://kanobu.ru/news/metro-exodus-vzlomali-islili-natorrentyi-vot-vam-iepic-store-protiv-steam-411225/
-Хакер: Треть всех расширений для Chrome «видят» все данные на посещенных сайтах - https://xakep.ru/2019/02/22/crxcavator/
-Игромания онлайн: СМИ: Intel подтверждает переход Apple на собственные процессоры для ноутбуков и PC - https://www.igromania.ru/news/81037/SMI_Intel_podtverzhdaet_perehod_Apple_na_sobstvennye_processory_dlya_noutbukov_i_PC.html
-iXBT.com: Intel готова начать массовое производство памяти MRAM - https://www.ixbt.com/news/2019/02/21/intel-gotova-nachat-massovoe-proizvodstvo-pamjat-mram.html
-Хакер: Обновления «сломали» кроссовки Nike с автошнуровкой - https://xakep.ru/2019/02/22/nike-adapt-bb/
-Игромания онлайн: AMD официально снизила цены на Radeon RX Vega 56 - https://www.igromania.ru/news/81030/AMD_oficialno_snizila_ceny_na_Radeon_RX_Vega_56.html
-Ferra.ru: HTC представила автономный шлем Vive Focus Plus премиум-класса - https://www.ferra.ru/news/techlife/htc-predstavila-avtonomnyi-shlem-vive-focus-plus-premium-klassa-22-02-2019.htm
-Опубликована модификация, которая превращает Half-Life в боевик с видом сверху - https://www.igromania.ru/news/81044/Opublikovana_modifikaciya_kotoraya_prevraschaet_Half-Life_v_boevik_s_vidom_sverhu.html
-Канобу: Microsoft больше не будет продавать подписки на сервисы Xbox в онлайне в России - https://kanobu.ru/news/microsoft-bolshe-ne-budet-prodavat-podpiski-na-servisyi-xbox-v-onajne-411254/
-Игромания онлайн: За 2018 год россияне потратили на компьютерные игры более 736 млн долларов - https://www.igromania.ru/news/80979/Za_2018_god_rossiyane_potratili_na_kompyuternye_igry_bolee_736_mln_dollarov.html
-Игромания онлайн: SK Hynix начала разработку памяти DDR6 - https://www.igromania.ru/news/80248/SK_Hynix_nachala_razrabotku_pamyati_DDR6.html
-Meduza: Тезка главного врага Марио и Луиджи возглавит американское отделение Nintendo. Теперь все шутят о его злодейских планах! - https://meduza.io/shapito/2019/02/22/tezka-glavnogo-vraga-mario-i-luidzhi-vozglavit-amerikanskoe-otdelenie-nintendo-teper-vse-shutyat-o-ego-zlodeyskih-planah
-Хакер: Уязвимость в WinRAR существовала 19 лет и угрожает 500 млн пользователей - https://xakep.ru/2019/02/21/winrar-bug/
-kod.ru: Microsoft представила бесплатный Office для пользователей Windows 10 - http://kod.ru/2916/
-Игромания онлайн: Media Markt «доплачивает» тем, кто возьмёт бесплатный диск Fallout 76 - https://www.igromania.ru/news/80699/Media_Markt_doplachivaet_tem_kto_vozmyot_besplatnyy_disk_Fallout_76.html
-Ferra.ru: Раскрыты характеристики семи новых бюджетных процессоров Intel - https://www.ferra.ru/news/computers/raskryty-kharakteristiki-semi-novykh-byudzhetnykh-processorov-intel-20-02-2019.htm
-Игромания онлайн: Слух: анимационный сериал по Alien: Isolation выйдет уже в апреле - https://www.igromania.ru/news/80980/Sluh_animacionnyy_serial_po_Alien_Isolation_vyydet_uzhe_v_aprele.html
 iXBT.com: Google представит игровую консоль и фирменный джойстик 19 марта - https://www.ixbt.com/news/2019/02/20/google-predstavit-igrovuju-konsol-i-firmennyj-dzhojstik-19-marta.html
 Игромания онлайн: Первые оценки Anthem: пока самый низкооценённый релиз BioWare в истории - https://www.igromania.ru/news/80916/Pervye_ocenki_Anthem_poka_samyy_nizkoocenyonnyy_reliz_BioWare_v_istorii.html
 Игромания онлайн: СМИ: Первая видеокарта AMD на базе чипа Navi выйдет летом - https://www.igromania.ru/news/80014/SMI_Pervaya_videokarta_AMD_na_baze_chipa_Navi_vyydet_letom.html
