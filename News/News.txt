@@ -1,3 +1,4 @@
+Анонсировали USB4: что известно о стандарте. В USB Promoter Group представили USB4. Новый стандарт обладает пропускной способностью в 40 Гбит/с и имеет обратную совместимость с USB 3.2, USB 2.0 и Thunderbolt 3 - https://habr.com/ru/company/vasexperts/blog/443106/
 iXBT.com: В этом году AMD выпустит не только новые CPU Ryzen, но и третье поколение монструозных Ryzen Threadripper - https://www.ixbt.com/news/2019/03/07/amd-cpu-ryzen-ryzen-threadripper.html
 Gametech.ru: Ни дня без бага: начальная винтовка в Anthem оказалась мощнейшим оружием - https://www.gametech.ru/news/63104/
 РБК: Тим Кук поменял имя в Twitter после оговорки Трампа - https://www.rbc.ru/rbcfreenews/5c816bc39a79474b0bf820e4
