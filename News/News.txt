@@ -1,3 +1,4 @@
+Хакер: Мошеннические всплывающие окна буквально уворачиваются от закрытия - https://xakep.ru/2019/04/02/tricky-ads/
 Хакер: Разработчиков Microsoft не тревожит публикация PoC-эксплоитов для уязвимостей в IE и Edge - https://xakep.ru/2019/04/05/ie-edge-sop-bypass/
 Технот: Microsoft изменит политику обновления Windows 10 для пользователей - https://tehnot.com/microsoft-izmenit-politiku-obnovleniya-windows-10-dlya-polzovatelej/
 Игромания онлайн: Летом выйдет контроллер движения для PlayStation VR, который управляется ногами - https://www.igromania.ru/news/81942/Letom_vyydet_kontroller_dvizheniya_dlya_PlayStation_VR_kotoryy_upravlyaetsya_nogami.html
