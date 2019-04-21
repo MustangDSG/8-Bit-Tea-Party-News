@@ -1,6 +1,3 @@
-Хакер: Intel не выпустила патчей для проблемы Spoiler, но присвоила ей идентификатор CVE - https://xakep.ru/2019/04/12/spoiler-cve/
-Хакер: Некоторым роутерам MikroTik угрожает проблема годичной давности, связанная с IPv6 - https://xakep.ru/2019/04/08/mikrotik-dos/
-Коммерсантъ: Операторы связи и ФСБ выступили против технологии встроенных сим-карт - https://www.kommersant.ru/doc/3937647
 Хакер: Мошеннические всплывающие окна буквально уворачиваются от закрытия - https://xakep.ru/2019/04/02/tricky-ads/
 Хакер: Разработчиков Microsoft не тревожит публикация PoC-эксплоитов для уязвимостей в IE и Edge - https://xakep.ru/2019/04/05/ie-edge-sop-bypass/
 Технот: Microsoft изменит политику обновления Windows 10 для пользователей - https://tehnot.com/microsoft-izmenit-politiku-obnovleniya-windows-10-dlya-polzovatelej/
