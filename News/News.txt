@@ -1,3 +1,18 @@
+РБК: Российские сим-карты запустят на чипах Samsung - https://www.rbc.ru/technology_and_media/23/05/2019/5ce53a039a79471bde8de739
+РБК: Трамп назвал Huawei очень опасной и предложил включить ее в сделку с КНР - https://www.rbc.ru/politics/24/05/2019/5ce71b459a794747680760d0
+Канобу: Это подстава: ARM тоже прекращает работу с Huawei. Китайцы могут остаться без своих же процессоров - https://kanobu.ru/news/vot-eto-podstava-arm-tozhe-prekraschaet-rabotu-shuawei-kitajtsyi-mogut-ostatsya-bez-svoihzhe-protses-414085/
+Ведомости: МТС тестирует оборудование для закона о «суверенном интернете» - https://www.vedomosti.ru/technology/articles/2019/05/23/802274-mts-testiruet-oborudovanie
+VGTimes: Для iOS и Android вышло мобильное приложение Steam Chat, позволяющее общаться с друзьями - https://vgtimes.ru/news/57647-dlya-ios-i-android-vyshlo-mobilnoe-prilozhenie-steam-chat-pozvolyayuschee-obschatsya-s-druzyami.html
+РБК: США предъявили Ассанжу обвинения на 175 лет тюрьмы - https://www.rbc.ru/politics/23/05/2019/5ce6ff909a79473eb10b0639
+Игромания онлайн: Opera готовит игровой браузер - https://www.igromania.ru/news/83014/Opera_gotovit_igrovoy_brauzer.html
+http://forklog.com/: Браузер Firefox имплементировал защиту от скрытого майнинга - https://forklog.com/brauzer-firefox-implementiroval-zashhitu-ot-skrytogo-majninga/
+iXBT.com: Российский планшет «Аквариус» заработал на российской ОС «Аврора - https://www.ixbt.com/news/2019/05/22/rossijskij-planshet-akvarius-zarabotal-na-rossijskoj-os-avrora-.html
+Androidinsider.ru: Искусственный интеллект от Google оказался не тем, чем кажется - https://androidinsider.ru/polezno-znat/iskusstvennyj-intellekt-ot-google-okazalsya-ne-tem-chem-kazhetsya.html
+VGTimes: Nvidia обещает показать что-то c названием Super. Пользователи шутят про супер высокую цену - https://vgtimes.ru/news/57694-nvidia-tizerit-chto-to-c-nazvaniem-super.-polzovateli-shutyat-pro-super-vysokuyu-cenu.html
+Лайфхакер: Майское обновление Windows 10 со светлой темой уже доступно всем желающим - https://lifehacker.ru/windows-10-may-2019-update/
+Игромания онлайн: Инженерные версии Ryzen 3000 демонстрируют впечатляющие результаты - https://www.igromania.ru/news/83049/Inzhenernye_versii_Ryzen_3000_demonstriruyut_vpechatlyayuschie_rezultaty.html
+Игромания: В Epic Games Store началась раздача RiME, за которой последует City of Brass - https://www.igromania.ru/news/83065/V_Epic_Games_Store_nachalas_razdacha_RiME_za_kotoroy_posleduet_City_of_Brass.html
+Коммерсантъ: Huawei планирует заменить Android и Windows своей ОС осенью 2019-го - https://www.kommersant.ru/doc/3977299
 Долгие годы Google хранила пароли от G Suite нехешированными - https://xakep.ru/2019/05/22/g-suite-passwords/
 AMD подтвердила, что свежие MDS-проблемы не представляют опасности для процессоров компании - https://xakep.ru/2019/05/22/mds-performance/
 "Google честно сообщает, что у них сбоит поисковый движок, а потому сегодня многие сайты (особенно новостные и блоги) просто не попали в их базу данных – поиск новостей или страниц даже с четким совпадением фраз просто не выдает искомые сайты. Это не первая проблема Google в мае. Ранее многие сайты были регрессивно деиндексированы, поэтому их страницы просто пропали из поисковой выдачи даже после того, как были туда занесены ранее. Специалисты Google уже несколько недель борются с ошибками, но не сообщают об их причине - https://www.crn.com/news/security/google-indexing-problems-resulting-in-some-stale-search-results " - https://t.me/addmeto/2652
