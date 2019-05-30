@@ -1,15 +1,34 @@
-﻿http://forklog.com/: Браузер Firefox имплементировал защиту от скрытого майнинга - https://forklog.com/brauzer-firefox-implementiroval-zashhitu-ot-skrytogo-majninga/
-Линус собрался покупать акции АМД... https://youtu.be/v7hofCnniJE
-iXBT.com: Российский планшет «Аквариус» заработал на российской ОС «Аврора - https://www.ixbt.com/news/2019/05/22/rossijskij-planshet-akvarius-zarabotal-na-rossijskoj-os-avrora-.html
+﻿Линус собрался покупать акции АМД... https://youtu.be/v7hofCnniJE
+ITC: Microsoft кратко рассказала о «современной ОС» с незаметными обновлениями и постоянным подключением - https://itc-ua.cdn.ampproject.org/c/s/itc.ua/news/microsoft-kratko-rasskazala-o-sovremennoj-os-s-nezametnymi-obnovleniyami-i-postoyannym-podklyucheniem/?amp&fbclid=IwAR2rY710_0efuD_BvbIkQbgrNZ0JdzjiLU_cXi0-P8ErX1orieOdFtslCyY
 Бородачи тоже отметитились по презентации АМД. https://youtu.be/nNM-wR-W-nY
-Androidinsider.ru: Искусственный интеллект от Google оказался не тем, чем кажется - https://androidinsider.ru/polezno-znat/iskusstvennyj-intellekt-ot-google-okazalsya-ne-tem-chem-kazhetsya.html
+Trashbox.ru: Google блокирует доступ к YouTube браузеру Edge на Chromium - https://trashbox.ru/topics/124744/google-blokiruet-dostup-k-youtube-brauzeru-edge-na-chromium
 Небольшие дополнения про Интел, Нвидия, тесты последнего Снапдрагона и АСУСноута. https://youtu.be/s_l2aqUGHJs
-VGTimes: Nvidia обещает показать что-то c названием Super. Пользователи шутят про супер высокую цену - https://vgtimes.ru/news/57694-nvidia-tizerit-chto-to-c-nazvaniem-super.-polzovateli-shutyat-pro-super-vysokuyu-cenu.html
+Игромания онлайн: Пятый эпизод оригинальной Doom от Джона Ромеро выйдет уже 31 мая - https://www.igromania.ru/news/83150/Pyatyy_yepizod_originalnoy_Doom_ot_Dzhona_Romero_vyydet_uzhe_31_maya.html
 Бородачи: много по мелочи от Асуса: портативные, дополнительные экраны вместо тач падов и двойные экраны на ноутах. https://youtu.be/snQAe4FHkHw
-Лайфхакер: Майское обновление Windows 10 со светлой темой уже доступно всем желающим - https://lifehacker.ru/windows-10-may-2019-update/
+Депутат из Красноярска, предложивший запретить Мinecraft, перепутал игру с Warcraft - https://www.znak.com/2019-05-29/deputat_iz_krasnoyarska_predlozhivshiy_zapretit_minecraft_pereputal_igru_s_warcraft
 МСИ: платы, охлаждение Х570 чипсета. Интел будет позже, видеокарта с карбоном, корпуса от всех. Игровые и мощные ноутбуки с перегревом и специальные мониторы для геймеров/стримеров. https://youtu.be/OEFIBJZJvos
-Игромания онлайн: Инженерные версии Ryzen 3000 демонстрируют впечатляющие результаты - https://www.igromania.ru/news/83049/Inzhenernye_versii_Ryzen_3000_demonstriruyut_vpechatlyayuschie_rezultaty.html
+"Huawei (см.апдейт) выпустит свою ОС в Китае в конце 2019го года, а в международные рынки придет в 2020. Что компания будет делать целый год без ОС на международном рынке - пока не ясно https://www.androidcentral.com/huaweis-android-replacement-os-will-start-rolling-out-june " - https://t.me/addmeto/2666
 Небольшие дополнения от Вэндела. https://youtu.be/fSNPYcZqAsY
+"Много лет я рассказываю, что у гугла аутсорсеров и аутстафа больше, чем работников внутри. Мне почему-то не верят, говорят что нужны пруфы. Ну смотрите, вот NYT пишет, что в 17ом году у гугла было 100 тысяч внутри компании и более 120 тысяч “временных сотрудников и контракторов”. Правда включая тех, кто занимается обучением ИИ, т.е. низкоквалифицированные работники, но тем не менее цифры есть цифры - https://www.nytimes.com/2019/05/28/technology/google-temp-workers.html " - https://t.me/addmeto/2665
+Антипиратский частный реестр на нейросети. Разработкой данного реестра, а также самообучающегося бота для анализа ссылок с пиратским контентом и подачи заявлений о нарушении авторских прав занимается Медиа-коммуникационный союз (МКС). «Современное программное решение на основе самообучающихся систем значительно повысит эффективность борьбы с интернет-пиратством и будет способствовать дальнейшему росту потребления легальных видеосервисов», — уверен президент МКС Михаил Демин - https://roskomsvoboda.org/47289
+"Еще один проект Google был закрыт. Приложение YouTube Gaming официально больше не поддерживается, как и сам сервис. Twitch победил - https://hypebeast.com/2019/5/google-youtube-gaming-cancellation " - https://t.me/addmeto/2664
+"В Японии с первого августа новые правила: теперь если 10 и более процентов компании из IT-сектора покупает иностранец, он сам обязан сообщить об этом правительству, а то может и запретить. Основная причина - судя по слухам США и уверения Трампа о том, что Китай шпионит за всеми. Интересно, за чем там в Японии шпионить? https://www.reuters.com/article/us-japan-economy-regulation/japan-to-limit-foreign-ownership-of-firms-in-its-it-telecom-sectors-idUSKCN1SX05F " - https://t.me/addmeto/2662
+Androidinsider.ru: Nokia рекламирует функцию автояркости, но даже не разобралась, как она работает - https://androidinsider.ru/smartfony/nokia-reklamiruet-funktsiyu-avtoyarkosti-no-dazhe-ne-razobralas-kak-ona-rabotaet.html
+iXBT.com: Интересное мнение: США ополчились на Huawei потому, что оборудование китайцев не даст американским спецслужбам - https://www.ixbt.com/news/2019/05/26/interesnoe-mnenie-ssha-opolchilis-na-huawei-potomu-chto-oborudovanie-kitajcev-ne-dast-amerikanskim-specsluzhbam.html
+VGTimes: Nvidia опубликовала 4K-трейлер Wolfenstein: Youngblood с рейтрейсингом. За покупку видеокарты RTX геймеры получат игру бесплатно - https://vgtimes.ru/news/57773-nvidia-opublikovala-4k-treyler-wolfenstein-youngblood-s-reytreysingom-za-pokupku-videokarty-rtx-geymery-poluchat-igru-besplatno.html
+Хроника мировых событий: Windows 10 после обновления лишилась полезных функций - https://hronika.info/tehnologii/433679-windows-10-posle-obnovleniya-lishilas-poleznyh-funkczij/
+Лайфхакер: Microsoft перестанет поставлять Windows для ноутбуков Huawei - https://lifehacker.ru/ms-windows-huawei/
+Игромания онлайн: AMD представила семейство графических карт Radeon RX 5000 - https://www.igromania.ru/news/83124/AMD_predstavila_semeystvo_graficheskih_kart_Radeon_RX_5000.html
+iXBT.com: AMD представила процессоры Ryzen 3000: на выбор 5 моделей, от 6-ядерного 
+Ryzen 5 3600 за $200 до 12-ядерного Ryzen 9 3900X за $500 - https://www-ixbt-com.cdn.ampproject.org/c/s/www.ixbt.com/news/2019/05/27/amd-ryzen-3000-5-6-ryzen-5-3600-200-12-ryzen-9-3900x-500.amp.html
+ITC: 10-нм процессоры Intel Ice Lake-U с новым GPU Gen11 неплохо справляются с 
+современными играми в разрешении 1080p - https://itc-ua.cdn.ampproject.org/c/s/itc.ua/news/10-nm-proczessory-intel-ice-lake-u-s-novym-gpu-gen11-neploho-spravlyayutsya-s-sovremennymi-igrami-v-razreshenii-1080p/?amp
+http://forklog.com/: Браузер Firefox имплементировал защиту от скрытого майнинга - https://forklog.com/brauzer-firefox-implementiroval-zashhitu-ot-skrytogo-majninga/
+iXBT.com: Российский планшет «Аквариус» заработал на российской ОС «Аврора - https://www.ixbt.com/news/2019/05/22/rossijskij-planshet-akvarius-zarabotal-na-rossijskoj-os-avrora-.html
+Androidinsider.ru: Искусственный интеллект от Google оказался не тем, чем кажется - https://androidinsider.ru/polezno-znat/iskusstvennyj-intellekt-ot-google-okazalsya-ne-tem-chem-kazhetsya.html
+VGTimes: Nvidia обещает показать что-то c названием Super. Пользователи шутят про супер высокую цену - https://vgtimes.ru/news/57694-nvidia-tizerit-chto-to-c-nazvaniem-super.-polzovateli-shutyat-pro-super-vysokuyu-cenu.html
+Лайфхакер: Майское обновление Windows 10 со светлой темой уже доступно всем желающим - https://lifehacker.ru/windows-10-may-2019-update/
+Игромания онлайн: Инженерные версии Ryzen 3000 демонстрируют впечатляющие результаты - https://www.igromania.ru/news/83049/Inzhenernye_versii_Ryzen_3000_demonstriruyut_vpechatlyayuschie_rezultaty.html
 Игромания: В Epic Games Store началась раздача RiME, за которой последует City of Brass - https://www.igromania.ru/news/83065/V_Epic_Games_Store_nachalas_razdacha_RiME_za_kotoroy_posleduet_City_of_Brass.html
 Коммерсантъ: Huawei планирует заменить Android и Windows своей ОС осенью 2019-го - https://www.kommersant.ru/doc/3977299
 Долгие годы Google хранила пароли от G Suite нехешированными - https://xakep.ru/2019/05/22/g-suite-passwords/
