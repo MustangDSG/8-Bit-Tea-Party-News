@@ -1,9 +1,15 @@
-http://forklog.com/: Браузер Firefox имплементировал защиту от скрытого майнинга - https://forklog.com/brauzer-firefox-implementiroval-zashhitu-ot-skrytogo-majninga/
+﻿http://forklog.com/: Браузер Firefox имплементировал защиту от скрытого майнинга - https://forklog.com/brauzer-firefox-implementiroval-zashhitu-ot-skrytogo-majninga/
+Линус собрался покупать акции АМД... https://youtu.be/v7hofCnniJE
 iXBT.com: Российский планшет «Аквариус» заработал на российской ОС «Аврора - https://www.ixbt.com/news/2019/05/22/rossijskij-planshet-akvarius-zarabotal-na-rossijskoj-os-avrora-.html
+Бородачи тоже отметитились по презентации АМД. https://youtu.be/nNM-wR-W-nY
 Androidinsider.ru: Искусственный интеллект от Google оказался не тем, чем кажется - https://androidinsider.ru/polezno-znat/iskusstvennyj-intellekt-ot-google-okazalsya-ne-tem-chem-kazhetsya.html
+Небольшие дополнения про Интел, Нвидия, тесты последнего Снапдрагона и АСУСноута. https://youtu.be/s_l2aqUGHJs
 VGTimes: Nvidia обещает показать что-то c названием Super. Пользователи шутят про супер высокую цену - https://vgtimes.ru/news/57694-nvidia-tizerit-chto-to-c-nazvaniem-super.-polzovateli-shutyat-pro-super-vysokuyu-cenu.html
+Бородачи: много по мелочи от Асуса: портативные, дополнительные экраны вместо тач падов и двойные экраны на ноутах. https://youtu.be/snQAe4FHkHw
 Лайфхакер: Майское обновление Windows 10 со светлой темой уже доступно всем желающим - https://lifehacker.ru/windows-10-may-2019-update/
+МСИ: платы, охлаждение Х570 чипсета. Интел будет позже, видеокарта с карбоном, корпуса от всех. Игровые и мощные ноутбуки с перегревом и специальные мониторы для геймеров/стримеров. https://youtu.be/OEFIBJZJvos
 Игромания онлайн: Инженерные версии Ryzen 3000 демонстрируют впечатляющие результаты - https://www.igromania.ru/news/83049/Inzhenernye_versii_Ryzen_3000_demonstriruyut_vpechatlyayuschie_rezultaty.html
+Небольшие дополнения от Вэндела. https://youtu.be/fSNPYcZqAsY
 Игромания: В Epic Games Store началась раздача RiME, за которой последует City of Brass - https://www.igromania.ru/news/83065/V_Epic_Games_Store_nachalas_razdacha_RiME_za_kotoroy_posleduet_City_of_Brass.html
 Коммерсантъ: Huawei планирует заменить Android и Windows своей ОС осенью 2019-го - https://www.kommersant.ru/doc/3977299
 Долгие годы Google хранила пароли от G Suite нехешированными - https://xakep.ru/2019/05/22/g-suite-passwords/
