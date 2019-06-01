@@ -1,10 +1,18 @@
-Shazoo: Моддер добавил песика-компаньона в Doom II - https://shazoo.ru/2019/05/30/80013/modder-dobavil-pesika-kompanona-v-doom-ii
+﻿Shazoo: Моддер добавил песика-компаньона в Doom II - https://shazoo.ru/2019/05/30/80013/modder-dobavil-pesika-kompanona-v-doom-ii
+Быстрый обзор ноутбука от МСИ. https://youtu.be/H7VdJvSPA9o https://youtu.be/VoDQcJxdmjw
 VGTimes: Вышел дебютный трейлер новой Call of Duty: Modern Warfare. Игра станет переосмыслением серии - https://vgtimes.ru/news/57882-vyshel-debyutnyy-treyler-novoy-call-of-duty-modern-warfare.html
+Еще дополнения про чипсет АМД Х570 и платы МСИ. https://youtu.be/TkSTp_tJI2oMSI 
 Hi-News.ru: #видео | NVIDIA обновила вышедший 25 лет назад Quake II. Но сыграть в него смогут не все - https://hi-news.ru/games/video-nvidia-obnovila-vyshedshij-25-let-nazad-quake-ii-no-sygrat-v-nego-smogut-ne-vse.html
+Гигабайт и массив из ССД на 16х линий на Райзене, для рабочих станций. https://youtu.be/nkrHGnSGrk4
 Игромания онлайн: Пятый эпизод оригинальной Doom от Джона Ромеро выйдет уже 31 мая - https://www.igromania.ru/news/83150/Pyatyy_yepizod_originalnoy_Doom_ot_Dzhona_Romero_vyydet_uzhe_31_maya.html
-Депутат из Красноярска, предложивший запретить Мinecraft, перепутал игру с Warcraft - https://www.znak.com/2019-05-29/deputat_iz_krasnoyarska_predlozhivshiy_zapretit_minecraft_pereputal_igru_s_warcraft
-"Huawei (см.апдейт) выпустит свою ОС в Китае в конце 2019го года, а в международные рынки придет в 2020. Что компания будет делать целый год без ОС на международном рынке - пока не ясно https://www.androidcentral.com/huaweis-android-replacement-os-will-start-rolling-out-june " - https://t.me/addmeto/2666
+Депутат из Красноярска, предложивший запретить Мinecraft, перепутал игру с Warcraft - https://www.znak.com/2019-05-
+29/deputat_iz_krasnoyarska_predlozhivshiy_zapretit_minecraft_pereputal_igru_s_warcraft
+Странные корпуса и быстрая память от ГСкилла. https://youtu.be/3CCqXc6onBo
+"Huawei (см.апдейт) выпустит свою ОС в Китае в конце 2019го года, а в международные рынки придет в 2020. Что компания будет делать целый год без ОС на международном рынке - пока не ясно 
+https://www.androidcentral.com/huaweis-android-replacement-os-will-start-rolling-out-june " - https://t.me/addmeto/2666
+Ноутбуки для рабочих приоложений от АСУСа и НВидии. https://youtu.be/k9PehgDEfhc
 "Много лет я рассказываю, что у гугла аутсорсеров и аутстафа больше, чем работников внутри. Мне почему-то не верят, говорят что нужны пруфы. Ну смотрите, вот NYT пишет, что в 17ом году у гугла было 100 тысяч внутри компании и более 120 тысяч “временных сотрудников и контракторов”. Правда включая тех, кто занимается обучением ИИ, т.е. низкоквалифицированные работники, но тем не менее цифры есть цифры - https://www.nytimes.com/2019/05/28/technology/google-temp-workers.html " - https://t.me/addmeto/2665
+И местные бородачи в довесок по системам охлаждения: Ноктуа, корпуса, вентиляторы для карт и контроллеры для ССД. https://youtu.be/HOyofc6w7ZI
 Антипиратский частный реестр на нейросети. Разработкой данного реестра, а также самообучающегося бота для анализа ссылок с пиратским контентом и подачи заявлений о нарушении авторских прав занимается Медиа-коммуникационный союз (МКС). «Современное программное решение на основе самообучающихся систем значительно повысит эффективность борьбы с интернет-пиратством и будет способствовать дальнейшему росту потребления легальных видеосервисов», — уверен президент МКС Михаил Демин - https://roskomsvoboda.org/47289
 "Еще один проект Google был закрыт. Приложение YouTube Gaming официально больше не поддерживается, как и сам сервис. Twitch победил - https://hypebeast.com/2019/5/google-youtube-gaming-cancellation " - https://t.me/addmeto/2664
 "В Японии с первого августа новые правила: теперь если 10 и более процентов компании из IT-сектора покупает иностранец, он сам обязан сообщить об этом правительству, а то может и запретить. Основная причина - судя по слухам США и уверения Трампа о том, что Китай шпионит за всеми. Интересно, за чем там в Японии шпионить? https://www.reuters.com/article/us-japan-economy-regulation/japan-to-limit-foreign-ownership-of-firms-in-its-it-telecom-sectors-idUSKCN1SX05F " - https://t.me/addmeto/2662
