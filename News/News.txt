@@ -1,11 +1,3 @@
-Роскомнадзор берёт информацию о трансграничном трафике под свой контроль. В рамках реализации закона 90-ФЗ надзорное ведомство выложило на общественное обсуждение 2 документа: о контроле использования точек обмена трафиком и о достоверности целей использования пересекающих границу линий связи - https://roskomsvoboda.org/47641/
-Презентация АМД. Новый процессор и видеокарты для игрового сегмента и общие планы. https://youtu.be/Rk_pHwbswUc
-За I квартал сборы от «налога на Google» почти сравнялись с суммой за весь 2018 год. Поступившие за первые три месяца 2019 года 12 млрд рублей фактически уплатили сами же россияне, поскольку после введения данного налога он был включен иностранными компаниями в стоимость предоставляемых услуг - https://roskomsvoboda.org/47634/
-Tproger: Искусственный интеллект и персональные сервисы в России: что делает Яндекс в 2019 - https://tproger.ru/articles/yac-2019-review/
-iXBT.com: 40 Гбит/с и 100 Вт - https://www.ixbt.com/news/2019/06/14/40-100-usb-4-2020.html
-iXBT.com: Представлен электрический уничтожитель комаров Xiaomi Yeelight Mosquito Killer - https://www.ixbt.com/news/2019/06/14/predstavlen-jelektricheskij-unichtozhitel-komarov-xiaomi-yeelight-.html
-Игромания: Microsoft и AMD считают, что облачный гейминг не убьёт классические PC и консоли - https://www.igromania.ru/news/83586/Microsoft_i_AMD_schitayut_chto_oblachnyy_geyming_ne_ubyot_klassicheskie_PC_i_konsoli.html
-ITC.ua: Nintendo начинает производство новых моделей Switch за пределами Китая - https://itc.ua/news/nintendo-nachinaet-proizvodstvo-novyh-modelej-switch-za-predelami-kitaya/
 Хакер: Rowhammer-атака RAMBleed позволяет похищать данные, а не только подменять их - https://xakep.ru/2019/06/13/rambleed/
 Хакер: Некоторые устройства YubiKey FIPS признаны ненадежными из-за бага - https://xakep.ru/2019/06/14/yubikey-fips/
 Хакер: Премиум-версия Firefox будет представлена в конце текущего года - https://xakep.ru/2019/06/11/premium-firefox/
