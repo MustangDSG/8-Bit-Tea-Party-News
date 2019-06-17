@@ -1,8 +1,3 @@
-О совместимости АМД и чипсетов. https://youtu.be/HiP3bELaI5M
-Игромания: На Эльбрус 801-РС запустили Morrowind - https://www.igromania.ru/news/83615/Na_Yelbrus_801-RS_zapustili_Morrowind.html
-Еще пара мыслей об Интел и АМД. https://youtu.be/A98J1om9eBI
-Игромания онлайн: На каком компьютере запускали геймплейное демо Cyberpunk 2077 на E3 2019. Процессор: Intel i7-8700K (3,70 ГГц), Материнская плата: ASUS ROG STRIX Z370-I GAMING, Оперативная память: G.Skill Ripjaws V, 2x16 ГБ, 3000 МГц, CL15, Видеокарта: Titan RTX, SSD: Samsung 960 Pro 512 ГБ M.2 PCIe, Блок питания: Corsair SF600 600W - https://www.igromania.ru/news/83637/Na_kakom_kompyutere_zapuskali_geympleynoe_demo_Cyberpunk_2077_na_E3_2019.html
-Быстрый обзор водянок от Корсаира... https://youtu.be/TfeWYyo9AB0
 Adobe научила нейросеть определять использование Photoshop на портретах - https://tjournal.ru/tech/102013-adobe-nauchila-neyroset-opredelyat-ispolzovanie-photoshop-na-portretah
 Корпуса и системы охлаждения от Фантекса. https://youtu.be/QMseFP46I5o
 Mail.Ru запустила голосового помощника в тестовом режиме - https://nplus1.ru/news/2019/06/17/marusia
