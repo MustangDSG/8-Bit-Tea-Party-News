@@ -1,3 +1,6 @@
+«Роскомсвобода»: VPN-сервис Kaspersky Secure Connection начал блокировать сайты из реестра Роскомнадзора - https://tjournal.ru/news/104427-roskomsvoboda-vpn-servis-kaspersky-secure-connection-nachal-blokirovat-sayty-iz-reestra-roskomnadzora
+ВЛАСТИ США ОБСУДИЛИ ВОЗМОЖНОСТЬ ЗАКОНОДАТЕЛЬНОГО ЗАПРЕТА СКВОЗНОГО ШИФРОВАНИЯ - https://www.securitylab.ru/news/499695.php
+РБК: Пять компаний обвинили «Яндекс» в ограничении доступа к их сервисам - https://www.rbc.ru/technology_and_media/01/07/2019/5d19a8799a794730f39b0e04
 СОРМ ОРИ: интернет-сервисы подключаются к пульту ФСБ. Вступает в силу приказ Минцифры о СОРМ для организаторов распространения информации, который устанавливает требования к оборудованию и ПО по съему пользовательского трафика - https://roskomsvoboda.org/47842/
 Глобальный обвал Сети продемонстрировал возможные риски «суверенного» интернета. Технический директор РосКомСвободы Станислав Шакиров прокомментировал «сердечный приступ интернета», произошедший из-за ошибки американского провайдера Verizon, который затронул работу таких глобальных сервисов, как Cloudflare, Amazon, Reddit и Twitch - https://roskomsvoboda.org/47830/
 Androidinsider.ru: Осторожно: Google Play заполонили приложения-подделки для Android - https://androidinsider.ru/soft/ostorozhno-google-play-zapolonili-prilozheniya-poddelki-dlya-android.html
